@@ -75,10 +75,10 @@ def preprocess_text(text):
 - **Age Group Adaptation**: Modify content appropriateness for different age groups
 - **Bias Balancing**: Ensure representation across demographic groups
 
-## 3. Enhanced Model Architectures and Training Details
+    ## 3. Enhanced Model Architectures and Training Details
 
 ### 3.1 Advanced Abuse Language Detection Model
-
+ 
 **Architecture**: State-of-the-Art BERT-based Ensemble with Advanced Features
 ```python
 class AdvancedAbuseDetector:

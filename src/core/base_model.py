@@ -7,7 +7,6 @@ in the AI Safety POC system.
 
 from abc import ABC, abstractmethod
 from typing import Dict, Any, List, Optional, Union
-import numpy as np
 import torch
 import torch.nn as nn
 from dataclasses import dataclass

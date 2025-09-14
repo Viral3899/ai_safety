@@ -15,18 +15,15 @@ import torch.nn as nn
 from typing import List, Dict, Any, Union, Optional, Tuple
 from transformers import (
     AutoTokenizer, AutoModelForSequenceClassification,
-    BertTokenizer, BertForSequenceClassification,
-    pipeline
+    BertTokenizer, BertForSequenceClassification
 )
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import VotingClassifier
 from sklearn.pipeline import Pipeline
-from sklearn.metrics import classification_report, confusion_matrix
 import pickle
 import os
 import json
-from datetime import datetime
 
 from core.base_model import BaseModel, ModelConfig, SafetyResult, SafetyLevel
 
