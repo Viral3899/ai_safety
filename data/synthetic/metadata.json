@@ -1,0 +1,27 @@
+{
+  "generated_at": "2025-09-14T13:03:05.921052",
+  "total_samples": 10000,
+  "models": {
+    "abuse_detector": 3333,
+    "crisis_detector": 3333,
+    "content_filter": 3333
+  },
+  "categories": {
+    "abuse_detector": [
+      "severe_abuse",
+      "mild_abuse",
+      "safe"
+    ],
+    "crisis_detector": [
+      "mild_concern",
+      "help_seeking",
+      "crisis",
+      "safe"
+    ],
+    "content_filter": [
+      "moderate",
+      "adult",
+      "safe"
+    ]
+  }
+}

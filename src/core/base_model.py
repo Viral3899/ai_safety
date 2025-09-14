@@ -47,6 +47,7 @@ class ModelConfig:
     learning_rate: float = 1e-4
     num_epochs: int = 10
     device: str = "cpu"
+    multilingual: bool = False
 
 
 class BaseModel(ABC):

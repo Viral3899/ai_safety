@@ -10,9 +10,9 @@ from datetime import datetime
 import json
 
 from core.base_model import ModelConfig, SafetyResult, SafetyLevel
-from models.abuse_detector import AbuseDetector
+from models.abuse_detector import AdvancedAbuseDetector as AbuseDetector
 from models.escalation_detector import EscalationDetector
-from models.crisis_detector import CrisisDetector
+from models.crisis_detector import AdvancedCrisisDetector as CrisisDetector
 from models.content_filter import ContentFilter, AgeGroup
 
 
@@ -418,3 +418,29 @@ class SafetyManager:
                 model.load_model(model_path)
             except Exception as e:
                 print(f"Error loading {model_name}: {e}")
+    
+    # Convenience methods for individual model access
+    def detect_abuse(self, text: str) -> SafetyResult:
+        """Detect abuse in text."""
+        return self.models['abuse_detector'].predict(text)
+    
+    def detect_crisis(self, text: str) -> SafetyResult:
+        """Detect crisis indicators in text."""
+        return self.models['crisis_detector'].predict(text)
+    
+    def detect_escalation(self, text: str, user_id: str = "default", session_id: str = "default") -> SafetyResult:
+        """Detect escalation patterns in text."""
+        return self.models['escalation_detector'].predict(text, user_id=user_id, session_id=session_id)
+    
+    def filter_content(self, text: str, age_group: str = "adult") -> SafetyResult:
+        """Filter content based on age group."""
+        # Convert string to AgeGroup enum
+        age_group_enum = AgeGroup.ADULT
+        if age_group.lower() == 'child':
+            age_group_enum = AgeGroup.CHILD
+        elif age_group.lower() == 'teen':
+            age_group_enum = AgeGroup.TEEN
+        elif age_group.lower() == 'adult':
+            age_group_enum = AgeGroup.ADULT
+        
+        return self.models['content_filter'].predict(text, age_group=age_group_enum)
