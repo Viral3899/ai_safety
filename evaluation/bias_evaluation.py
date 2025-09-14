@@ -1,7 +1,5 @@
 """
-Bias Evaluation for AI Safety Models.
-
-This module provides bias detection and evaluation for AI Safety Models.
+Bias evaluation for AI safety models.
 """
 
 import numpy as np

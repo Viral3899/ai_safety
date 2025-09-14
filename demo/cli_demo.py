@@ -142,12 +142,12 @@ class CLIDemo:
                     'low': '🟡'
                 }
                 
-                print(f"  {i}. {priority_emoji.get(priority, '🔵')} [{priority.upper()}] {action}")
+                print(f"  {i}. [{priority.upper()}] {action}")
                 print(f"     Reason: {reason}")
     
     def set_age_group(self):
         """Set user age group for content filtering."""
-        print("\n👤 Set User Age Group")
+        print("\nSet User Age Group")
         print("-" * 25)
         print("Available age groups:")
         print("1. Child (5-12 years)")
@@ -166,13 +166,13 @@ class CLIDemo:
         
         if choice in age_groups:
             self.current_age_group = age_groups[choice]
-            print(f"✅ Age group set to: {self.current_age_group.value}")
+            print(f"Age group set to: {self.current_age_group.value}")
         else:
-            print("❌ Invalid choice.")
+            print("Invalid choice.")
     
     def view_conversation_summary(self):
         """View conversation summary."""
-        print("\n📈 Conversation Summary")
+        print("\nConversation Summary")
         print("-" * 25)
         
         try:

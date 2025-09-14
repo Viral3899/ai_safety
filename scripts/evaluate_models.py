@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 """
-Evaluate AI Safety Models.
-
-This script provides comprehensive evaluation of the AI Safety Models including
-performance metrics, bias analysis, and robustness testing.
+Evaluate AI safety models.
 """
 
 import sys

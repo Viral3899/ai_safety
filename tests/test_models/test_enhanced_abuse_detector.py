@@ -1,11 +1,5 @@
 """
-Enhanced test cases for the Advanced Abuse Detector.
-
-This module tests the enhanced abuse detector with:
-- Edge cases and ambiguous language
-- Multilingual text support
-- Slang and internet language
-- State-of-the-art model approaches
+Test cases for the enhanced abuse detector.
 """
 
 import pytest

@@ -1,7 +1,5 @@
 """
-Data Generator for AI Safety Models.
-
-This module provides utilities for generating synthetic training data.
+Data generator for AI safety models.
 """
 
 import random

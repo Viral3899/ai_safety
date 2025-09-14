@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 """
-Train AI Safety Models with Synthetic Data.
-
-This script provides functionality to train the AI Safety Models using existing synthetic datasets
-from the data/synthetic/ directory or by generating new synthetic data on-the-fly.
+Train AI safety models with synthetic data.
 """
 
 import sys
@@ -25,7 +22,7 @@ from utils.data_generator import DataGenerator
 
 def generate_comprehensive_synthetic_data() -> Dict[str, List[Dict[str, Any]]]:
     """Generate comprehensive synthetic training data for all models."""
-    print("🔄 Generating comprehensive synthetic training data...")
+    print("Generating comprehensive synthetic training data...")
     
     # Initialize data generator
     data_gen = DataGenerator()

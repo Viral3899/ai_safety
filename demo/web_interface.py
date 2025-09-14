@@ -1,7 +1,5 @@
 """
-Web Interface for AI Safety Models Demo.
-
-This module provides a simple web interface using FastAPI.
+Web interface for AI safety models demo.
 """
 
 import sys
@@ -19,7 +17,7 @@ try:
     from safety_system.safety_manager import SafetyManager
     from models.content_filter import AgeGroup
 except ImportError as e:
-    print(f"❌ Missing dependencies for web interface: {e}")
+    print(f"Missing dependencies for web interface: {e}")
     print("Install with: pip install fastapi uvicorn")
     sys.exit(1)
 

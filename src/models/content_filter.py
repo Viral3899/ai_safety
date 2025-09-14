@@ -1,8 +1,5 @@
 """
-Age-Appropriate Content Filtering Model.
-
-This module implements content filtering for guardian-supervised accounts,
-ensuring content is suitable based on user age profiles.
+Age-appropriate content filtering model.
 """
 
 import re

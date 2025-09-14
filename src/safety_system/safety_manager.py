@@ -1,8 +1,5 @@
 """
-Safety Manager - Central coordinator for AI Safety Models.
-
-This module integrates all safety models into a cohesive system that provides
-comprehensive safety analysis and intervention recommendations.
+Safety manager for coordinating AI safety models.
 """
 
 from typing import Dict, Any, List, Optional, Union

@@ -1,11 +1,5 @@
 """
-Enhanced Abuse Language Detection Model with State-of-the-Art Approaches.
-
-This module implements a comprehensive abuse detection system using:
-- BERT-based classifiers (HurtBERT, CRAB approaches)
-- Advanced feature extraction
-- Multilingual support
-- Ensemble methods for improved accuracy
+Abuse language detection model.
 """
 
 import re

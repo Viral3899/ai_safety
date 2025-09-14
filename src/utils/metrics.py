@@ -1,7 +1,5 @@
 """
-Metrics utilities for AI Safety Models.
-
-This module provides utility functions for calculating and analyzing metrics.
+Metrics utilities for AI safety models.
 """
 
 import numpy as np

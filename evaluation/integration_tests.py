@@ -1,7 +1,5 @@
 """
-Integration Tests for AI Safety Models.
-
-This module provides integration testing for the AI Safety Models system.
+Integration tests for AI safety models.
 """
 
 import sys
@@ -27,7 +25,7 @@ class IntegrationTester:
     
     def run_end_to_end_tests(self) -> Dict[str, Any]:
         """Run end-to-end integration tests."""
-        print("🧪 Running End-to-End Integration Tests")
+        print("Running End-to-End Integration Tests")
         print("=" * 40)
         
         test_cases = [

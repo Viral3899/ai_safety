@@ -1,11 +1,5 @@
 """
-Enhanced test cases for the Advanced Crisis Detector.
-
-This module tests the enhanced crisis detector with:
-- Crisis intervention scenarios
-- Multilingual mental health language
-- Edge cases and ambiguous expressions
-- Protective factors and support-seeking behavior
+Test cases for the enhanced crisis detector.
 """
 
 import pytest

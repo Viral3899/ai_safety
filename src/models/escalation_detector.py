@@ -1,8 +1,5 @@
 """
-Escalation Pattern Recognition Model.
-
-This module implements a system that detects when conversations are becoming
-emotionally dangerous through repeated aggressive language or intensifying negativity.
+Escalation pattern recognition model for detecting dangerous conversation patterns.
 """
 
 import re

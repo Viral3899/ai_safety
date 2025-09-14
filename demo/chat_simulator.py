@@ -1,7 +1,5 @@
 """
-Chat Simulator for AI Safety Models Demo.
-
-This module provides a chat simulator to demonstrate the AI Safety Models in action.
+Chat simulator for AI safety models demo.
 """
 
 import sys

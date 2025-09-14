@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate Synthetic Data for AI Safety Models.
-
-This script generates synthetic training and testing data for the AI Safety Models.
+Generate synthetic data for AI safety models.
 """
 
 import sys

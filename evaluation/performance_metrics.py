@@ -1,7 +1,5 @@
 """
-Performance Metrics for AI Safety Models.
-
-This module provides comprehensive performance evaluation metrics for the AI Safety Models.
+Performance metrics for AI safety models.
 """
 
 import numpy as np

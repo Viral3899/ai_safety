@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 """
-Demo Scenarios for AI Safety Models POC Video Demonstration.
-
-This script provides pre-defined test cases and scenarios for the 10-minute
-walkthrough video, ensuring consistent and impressive demonstrations.
+Demo scenarios for AI safety models.
 """
 
 import sys
@@ -19,26 +16,26 @@ from safety_system.safety_manager import SafetyManager
 from models.content_filter import AgeGroup
 
 class DemoScreen:
-    """Demo screen with formatted output for video recording."""
+    """Demo screen with formatted output."""
     
     @staticmethod
     def show_header(title: str):
         """Show demo section header."""
         print("=" * 60)
-        print(f"🎬 {title}")
+        print(f"{title}")
         print("=" * 60)
     
     @staticmethod
     def show_scenario(scenario_num: int, title: str, description: str):
         """Show scenario introduction."""
-        print(f"\n📋 SCENARIO {scenario_num}: {title}")
-        print(f"📝 Description: {description}")
+        print(f"\nSCENARIO {scenario_num}: {title}")
+        print(f"Description: {description}")
         print("-" * 50)
     
     @staticmethod
     def show_input(text: str, age_group: str = "adult"):
         """Show input text and parameters."""
-        print(f"📥 INPUT:")
+        print(f"INPUT:")
         print(f"   Text: '{text}'")
         print(f"   Age Group: {age_group}")
         print(f"   User ID: demo_user")
@@ -47,33 +44,33 @@ class DemoScreen:
     @staticmethod
     def show_output(result: Dict[str, Any]):
         """Show formatted output."""
-        print(f"\n📤 OUTPUT:")
+        print(f"\nOUTPUT:")
         print(f"   Overall Risk: {result['overall_assessment']['overall_risk'].upper()}")
         print(f"   Intervention Level: {result['overall_assessment']['intervention_level']}")
         print(f"   Max Score: {result['overall_assessment']['max_score']:.3f}")
         print(f"   Processing Time: {result['processing_time']:.3f}s")
         
-        print(f"\n📊 MODEL BREAKDOWN:")
+        print(f"\nMODEL BREAKDOWN:")
         for model_name, model_result in result['models'].items():
             result_data = model_result['result']
             risk_level = model_result['risk_level']
-            print(f"   • {model_name.replace('_', ' ').title()}: {result_data.label} ({risk_level}) - {result_data.score:.3f}")
+            print(f"   {model_name.replace('_', ' ').title()}: {result_data.label} ({risk_level}) - {result_data.score:.3f}")
         
         if result['intervention_recommendations']:
-            print(f"\n⚠️  INTERVENTIONS:")
+            print(f"\nINTERVENTIONS:")
             for rec in result['intervention_recommendations'][:3]:
                 print(f"   - [{rec['priority'].upper()}] {rec['action']}")
     
     @staticmethod
     def show_analysis(analysis: str):
         """Show analysis and explanation."""
-        print(f"\n💡 ANALYSIS:")
+        print(f"\nANALYSIS:")
         print(f"   {analysis}")
     
     @staticmethod
     def pause_for_video():
         """Pause for video recording."""
-        print("\n⏸️  [PAUSE FOR VIDEO RECORDING]")
+        print("\n[PAUSE FOR VIDEO RECORDING]")
         time.sleep(2)
 
 class VideoDemo:

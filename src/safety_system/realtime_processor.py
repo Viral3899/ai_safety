@@ -1,7 +1,5 @@
 """
-Real-time Processing for AI Safety Models.
-
-This module provides real-time processing capabilities for the AI Safety Models system.
+Real-time processing for AI safety models.
 """
 
 import asyncio

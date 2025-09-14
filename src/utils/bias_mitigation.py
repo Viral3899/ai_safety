@@ -1,7 +1,5 @@
 """
-Bias Mitigation Utilities for AI Safety Models.
-
-This module provides utilities for mitigating bias in AI Safety Models.
+Bias mitigation utilities for AI safety models.
 """
 
 import numpy as np

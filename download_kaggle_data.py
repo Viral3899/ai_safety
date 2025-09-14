@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """
-Download Real Training Data from Kaggle for AI Safety Models.
-
-This script downloads real datasets from Kaggle to replace synthetic data.
+Download training data from Kaggle for AI safety models.
 """
 
 import os
@@ -22,41 +20,38 @@ def setup_kaggle_api():
     kaggle_dir = Path.home() / '.kaggle'
     kaggle_dir.mkdir(exist_ok=True)
     
-    # Instructions for user
-    print("🔑 Kaggle API Setup Required:")
+    print("Kaggle API Setup Required:")
     print("1. Go to https://www.kaggle.com/account")
     print("2. Create API token (kaggle.json)")
     print("3. Place kaggle.json in ~/.kaggle/ directory")
     print("4. Set permissions: chmod 600 ~/.kaggle/kaggle.json")
     print()
     
-    # Check if credentials exist
     kaggle_file = kaggle_dir / 'kaggle.json'
     if kaggle_file.exists():
-        print("✅ Kaggle credentials found")
+        print("Kaggle credentials found")
         return True
     else:
-        print("❌ Kaggle credentials not found")
+        print("Kaggle credentials not found")
         return False
 
 def download_dataset(dataset_name: str, output_dir: str):
     """Download a dataset from Kaggle."""
     try:
         import kaggle
-        print(f"📥 Downloading {dataset_name}...")
+        print(f"Downloading {dataset_name}...")
         
-        # Download dataset
         kaggle.api.dataset_download_files(
             dataset_name, 
             path=output_dir, 
             unzip=True
         )
         
-        print(f"✅ Downloaded {dataset_name} successfully")
+        print(f"Downloaded {dataset_name} successfully")
         return True
         
     except Exception as e:
-        print(f"❌ Failed to download {dataset_name}: {e}")
+        print(f"Failed to download {dataset_name}: {e}")
         return False
 
 def download_abuse_detection_data(output_dir: str):

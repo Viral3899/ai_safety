@@ -1,5 +1,5 @@
 """
-Intervention Handler for AI Safety Models.
+Intervention handler for AI safety models.
 """
 
 import json

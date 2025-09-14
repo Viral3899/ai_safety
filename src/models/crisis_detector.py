@@ -1,12 +1,5 @@
 """
-Enhanced Crisis Intervention Model with State-of-the-Art Approaches.
-
-This module implements advanced AI recognition of severe emotional distress or self-harm indicators
-using:
-- BERT-based models for context understanding
-- Advanced pattern recognition
-- Multilingual support
-- Real-time intervention triggers
+Crisis intervention model for detecting emotional distress and self-harm indicators.
 """
 
 import re
