@@ -41,7 +41,9 @@ class EscalationDetector(BaseModel):
         # Escalation intensity words
         intensity_words = [
             'hate', 'despise', 'loathe', 'can\'t stand', 'sick of',
-            'fed up', 'enough', 'stop', 'quit', 'leave', 'go away'
+            'fed up', 'enough', 'stop', 'quit', 'leave', 'go away',
+            'angry', 'mad', 'furious', 'rage', 'irate', 'annoyed',
+            'irritated', 'bothered', 'frustrated'
         ]
         
         # Threatening language
@@ -78,9 +80,9 @@ class EscalationDetector(BaseModel):
         score = 0.0
         
         # Current message intensity
-        score += min(features['negative_word_count'] * 0.1, 0.3)
-        score += min(features['intensity_word_count'] * 0.15, 0.4)
-        score += min(features['threat_word_count'] * 0.2, 0.5)
+        score += min(features['negative_word_count'] * 0.15, 0.4)
+        score += min(features['intensity_word_count'] * 0.2, 0.5)
+        score += min(features['threat_word_count'] * 0.25, 0.6)
         
         # Caps and punctuation intensity
         if features['caps_ratio'] > 0.3:

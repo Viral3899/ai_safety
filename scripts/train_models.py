@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
-Train AI Safety Models with Enhanced Synthetic Data.
+Train AI Safety Models with Synthetic Data.
 
-This script provides functionality to train the enhanced AI Safety Models on comprehensive synthetic datasets.
+This script provides functionality to train the AI Safety Models using existing synthetic datasets
+from the data/synthetic/ directory or by generating new synthetic data on-the-fly.
 """
 
 import sys
@@ -76,7 +77,7 @@ def generate_enhanced_abuse_dataset(count: int) -> List[Dict[str, Any]]:
         "I love this new feature.",
         "The weather is nice today.",
         "I'm feeling optimistic.",
-        "This is exactly what I needed."
+        "This is exactly what I needed."  
     ]
     
     # Mild abuse templates (30%)
@@ -438,6 +439,38 @@ def load_training_data(data_path: str) -> Dict[str, List[Dict[str, Any]]]:
         sys.exit(1)
 
 
+def load_synthetic_data(synthetic_data_dir: str = "data/synthetic") -> Dict[str, List[Dict[str, Any]]]:
+    """Load existing synthetic training data from individual model files."""
+    print("📊 Loading existing synthetic training data...")
+    
+    datasets = {}
+    synthetic_files = {
+        'abuse_detector': 'abuse_detector_data.json',
+        'crisis_detector': 'crisis_detector_data.json', 
+        'content_filter': 'content_filter_data.json',
+        'escalation_detector': 'escalation_detector_data.json'
+    }
+    
+    for model_name, filename in synthetic_files.items():
+        file_path = os.path.join(synthetic_data_dir, filename)
+        try:
+            if os.path.exists(file_path):
+                with open(file_path, 'r') as f:
+                    data = json.load(f)
+                datasets[model_name] = data
+                print(f"  ✅ Loaded {len(data)} samples for {model_name}")
+            else:
+                print(f"  ⚠️  File not found: {file_path}")
+                datasets[model_name] = []
+        except json.JSONDecodeError as e:
+            print(f"  ❌ Error loading {filename}: {e}")
+            datasets[model_name] = []
+    
+    total_samples = sum(len(data) for data in datasets.values())
+    print(f"✅ Loaded {total_samples} total synthetic training samples")
+    return datasets
+
+
 def train_single_model(model_name: str, model, train_data: List[Dict[str, Any]], 
                       val_data: List[Dict[str, Any]] = None) -> Dict[str, float]:
     """Train a single model and return metrics."""
@@ -480,8 +513,8 @@ def train_models(data_path: str = None, output_path: str = "trained_models",
     
     # Load or generate training data
     if use_synthetic_data or data_path is None:
-        print("📊 Generating comprehensive synthetic training data...")
-        training_data = generate_comprehensive_synthetic_data()
+        print("📊 Loading existing synthetic training data...")
+        training_data = load_synthetic_data()
     else:
         print(f"📊 Loading training data from: {data_path}")
         training_data = load_training_data(data_path)
@@ -578,7 +611,7 @@ def main():
     parser.add_argument('--output-path', type=str, default='trained_models',
                        help='Output directory for trained models')
     parser.add_argument('--use-synthetic-data', action='store_true',
-                       help='Use comprehensive synthetic training data')
+                       help='Use existing synthetic training data from data/synthetic/ directory')
     parser.add_argument('--verbose', '-v', action='store_true',
                        help='Enable verbose output')
     

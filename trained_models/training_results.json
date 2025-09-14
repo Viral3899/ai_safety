@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-09-14T13:12:43.439936",
+  "timestamp": "2025-09-14T16:12:36.856883",
   "models": {
     "abuse_detector": {
-      "error": "could not convert string to float: \"i'm exseeited abeowhyout the pareojeseet.\""
+      "error": "could not convert string to float: 'this is damand farewhyoustareatiandg!'"
     },
     "escalation_detector": {
       "train_accuracy": 0.78,
-      "val_accuracy": 0.75,
+      "val_accuracy": null,
       "escalation_detection_rate": 0.82
     },
     "crisis_detector": {
@@ -30,24 +30,24 @@
   },
   "data_summary": {
     "abuse_detector": {
-      "total_samples": 5000,
-      "positive_samples": 3000,
-      "negative_samples": 2000
+      "total_samples": 3333,
+      "positive_samples": 1334,
+      "negative_samples": 1999
     },
     "crisis_detector": {
-      "total_samples": 3000,
-      "positive_samples": 1500,
-      "negative_samples": 1500
+      "total_samples": 3333,
+      "positive_samples": 1667,
+      "negative_samples": 1666
     },
     "content_filter": {
-      "total_samples": 4000,
-      "positive_samples": 1200,
-      "negative_samples": 2800
+      "total_samples": 3333,
+      "positive_samples": 1264,
+      "negative_samples": 2069
     },
     "escalation_detector": {
-      "total_samples": 2000,
-      "positive_samples": 800,
-      "negative_samples": 1200
+      "total_samples": 0,
+      "positive_samples": 0,
+      "negative_samples": 0
     }
   }
 }

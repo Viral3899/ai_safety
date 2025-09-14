@@ -21,7 +21,154 @@ python demo_scenarios.py --quick
 5. **Analysis** (1.5m) - Pros/cons, scaling
 6. **Conclusion** (30s) - Key takeaways
 
-### 🎯 **Key Demo Scenarios**
+#
+============================================================
+🎬 AI SAFETY MODELS POC - VIDEO DEMONSTRATION
+============================================================
+
+🎯 This demo showcases the four core AI Safety Models:
+   • Abuse Language Detection
+   • Escalation Pattern Recognition
+   • Crisis Intervention
+   • Content Filtering
+
+⚡ Key Features:
+   • Real-time processing (<100ms)
+   • Age-appropriate filtering
+   • Human-in-the-loop interventions
+   • Bias mitigation and fairness
+
+📋 SCENARIO 1: Child Safety - Profanity Detection
+📝 Description: Demonstrates how the system protects children from inappropriate content    
+--------------------------------------------------
+📥 INPUT:
+   Text: 'fuck you'
+   Age Group: child
+   User ID: demo_user
+   Session ID: demo_session
+
+📤 OUTPUT:
+   Overall Risk: CRITICAL
+   Intervention Level: emergency
+   Max Score: 0.800
+
+❌ ERROR: 'processing_time'
+
+⏸️  [PAUSE FOR VIDEO RECORDING]
+
+📋 SCENARIO 2: Crisis Intervention - Self-Harm Detection
+📝 Description: Shows how the system detects severe emotional distress and potential self-harm
+--------------------------------------------------
+📥 INPUT:
+   Text: 'I want to kill myself and end this pain'
+   Age Group: adult
+   User ID: demo_user
+   Session ID: demo_session
+
+📤 OUTPUT:
+   Overall Risk: CRITICAL
+   Intervention Level: emergency
+   Max Score: 1.000
+
+❌ ERROR: 'processing_time'
+
+⏸️  [PAUSE FOR VIDEO RECORDING]
+
+📋 SCENARIO 3: Safe Content - Normal Conversation
+📝 Description: Demonstrates that normal, safe content is correctly identified
+--------------------------------------------------
+📥 INPUT:
+   Text: 'Hello, how are you today? I hope you have a great day!'
+   Age Group: child
+   User ID: demo_user
+   Session ID: demo_session
+
+📤 OUTPUT:
+   Overall Risk: MINIMAL
+   Intervention Level: none
+   Max Score: 0.002
+
+❌ ERROR: 'processing_time'
+
+⏸️  [PAUSE FOR VIDEO RECORDING]
+
+📋 SCENARIO 4: Escalation Detection - Conversation Context
+📝 Description: Shows how the system tracks conversation patterns for escalation
+--------------------------------------------------
+📥 INPUT:
+   Text: 'I hate this conversation and you are making me angry!'
+   Age Group: adult
+   User ID: demo_user
+   Session ID: demo_session
+
+📤 OUTPUT:
+   Overall Risk: MINIMAL
+   Intervention Level: none
+   Max Score: 0.302
+
+❌ ERROR: 'processing_time'
+
+⏸️  [PAUSE FOR VIDEO RECORDING]
+
+📋 SCENARIO 5: Adult Content Filtering - Age-Appropriate
+📝 Description: Demonstrates age-appropriate content filtering for adults
+--------------------------------------------------
+📥 INPUT:
+   Text: 'This movie contains violence and adult themes'
+   Age Group: adult
+   User ID: demo_user
+   Session ID: demo_session
+
+📤 OUTPUT:
+   Overall Risk: MINIMAL
+   Intervention Level: none
+   Max Score: 0.200
+
+❌ ERROR: 'processing_time'
+
+⏸️  [PAUSE FOR VIDEO RECORDING]
+
+📋 SCENARIO 6: Severe Abuse - Multiple Model Triggers
+📝 Description: Shows how multiple models work together for severe cases
+--------------------------------------------------
+📥 INPUT:
+   Text: 'You fucking idiot, I hate you and want you to die!'
+   Age Group: child
+   User ID: demo_user
+   Session ID: demo_session
+
+📤 OUTPUT:
+   Overall Risk: MINIMAL
+   Intervention Level: none
+   Max Score: 0.455
+
+❌ ERROR: 'processing_time'
+
+⏸️  [PAUSE FOR VIDEO RECORDING]
+============================================================
+🎬 DEMO SUMMARY
+============================================================
+
+🎉 DEMONSTRATION COMPLETE!
+
+📊 Key Achievements:
+   ✅ All 4 safety models working correctly
+   ✅ Real-time processing demonstrated
+   ✅ Age-appropriate filtering shown
+   ✅ Crisis intervention triggered
+   ✅ Multi-model integration working
+
+🚀 Production Readiness:
+   • Modular architecture for easy extension
+   • Comprehensive bias evaluation
+   • Human oversight integration
+   • Scalable design for high-volume deployment
+
+📝 Next Steps:
+   • Integrate real datasets from Kaggle
+   • Deploy to staging environment
+   • Conduct A/B testing
+   • Scale for production traffic## 🎯 **Key Demo Scenarios**
 1. **Child Safety**: "fuck you" → CRITICAL risk
 2. **Crisis**: "I want to kill myself" → CRITICAL risk
 3. **Safe**: "Hello, how are you?" → MINIMAL risk

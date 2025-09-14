@@ -131,6 +131,10 @@ class SafetyManager:
         if isinstance(text, str):
             text = [text]
         
+        # Start timing
+        import time
+        start_time = time.time()
+        
         results = {
             'timestamp': datetime.now().isoformat(),
             'user_id': user_id,
@@ -193,6 +197,10 @@ class SafetyManager:
         )
         results['intervention_recommendations'] = intervention_recommendations
         
+        # Calculate processing time
+        processing_time = time.time() - start_time
+        results['processing_time'] = processing_time
+        
         return results
     
     def _assess_risk_level(self, result: SafetyResult, model_type: str) -> str:
@@ -228,6 +236,9 @@ class SafetyManager:
                 critical_issues.append(model_name)
             elif risk_level == 'high':
                 high_risk_issues.append(model_name)
+            elif risk_level == 'medium' and result.score > 0.5:
+                # Treat medium risk with high scores as high risk for severe cases
+                high_risk_issues.append(model_name)
         
         # Determine overall risk level
         max_score = max(risk_scores) if risk_scores else 0.0
@@ -239,7 +250,7 @@ class SafetyManager:
         elif high_risk_issues:
             overall_risk = 'high'
             intervention_level = 'intervene'
-        elif max_score > 0.6:
+        elif max_score > 0.5:
             overall_risk = 'medium'
             intervention_level = 'warn'
         elif avg_score > 0.3:

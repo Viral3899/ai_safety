@@ -164,7 +164,9 @@ class AdvancedAbuseDetector(BaseModel):
                 r'\b(fuck|shit|damn|bitch|asshole|bastard)\b',
                 r'\b(kill|die|death|murder|suicide|destroy)\b',
                 r'\b(hate|despise|loathe|detest)\b',
-                r'\b(stupid|idiot|moron|retard|dumb)\b'
+                r'\b(stupid|idiot|moron|retard|dumb)\b',
+                r'\b(fucking|shitty|damned|bitchy)\b',
+                r'\b(kill|die|death|murder|suicide|destroy)\b'
             ],
             'threat': [
                 r'\b(threat|threaten|kill|harm|hurt|attack)\b',
@@ -516,13 +518,13 @@ class AdvancedAbuseDetector(BaseModel):
             
             if count > 0:
                 if category == 'aggressive':
-                    rule_score += min(count * 0.3, 0.6)
-                elif category == 'threat':
                     rule_score += min(count * 0.4, 0.8)
+                elif category == 'threat':
+                    rule_score += min(count * 0.5, 0.9)
                 elif category == 'harassment':
-                    rule_score += min(count * 0.3, 0.5)
-                elif category == 'discrimination':
                     rule_score += min(count * 0.4, 0.7)
+                elif category == 'discrimination':
+                    rule_score += min(count * 0.5, 0.8)
         
         # Emotional intensity scoring
         for emotion, patterns in self.emotional_patterns.items():
