@@ -1,0 +1,34 @@
+# Core ML and NLP libraries
+numpy
+pandas
+scikit-learn
+torch
+transformers
+datasets
+spacy
+nltk
+
+# Web framework and API
+fastapi
+uvicorn
+pydantic
+
+# Data processing and visualization
+matplotlib
+seaborn
+plotly
+
+# Utilities and development
+python-multipart
+python-dotenv
+pytest
+black
+flake8
+
+# Jupyter notebooks
+jupyter
+ipykernel
+
+# Text processing
+textblob
+vaderSentiment

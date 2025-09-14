@@ -1,0 +1,233 @@
+[
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G"
+  },
+  {
+    "text": "This contains some scary elements.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG"
+  },
+  {
+    "text": "I like to play with my friends!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G"
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G"
+  },
+  {
+    "text": "Learning is exciting!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G"
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G"
+  },
+  {
+    "text": "This has extreme violence.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R"
+  },
+  {
+    "text": "This contains some scary elements.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG"
+  },
+  {
+    "text": "This contains drug use and abuse.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R"
+  },
+  {
+    "text": "This has some suspenseful moments.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13"
+  },
+  {
+    "text": "This contains disturbing themes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R"
+  },
+  {
+    "text": "This contains mature sexual content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R"
+  },
+  {
+    "text": "There is mild violence in this content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG"
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G"
+  },
+  {
+    "text": "This contains mature sexual content.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R"
+  },
+  {
+    "text": "This contains some scary elements.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG"
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G"
+  },
+  {
+    "text": "This has strong language throughout.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R"
+  },
+  {
+    "text": "There is mild violence in this content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13"
+  },
+  {
+    "text": "This contains some scary elements.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG"
+  },
+  {
+    "text": "This contains some mature themes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13"
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G"
+  },
+  {
+    "text": "Graphic violence and gore.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R"
+  },
+  {
+    "text": "This contains drug use and abuse.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R"
+  },
+  {
+    "text": "This contains explicit sexual content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R"
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G"
+  },
+  {
+    "text": "I enjoy reading books!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G"
+  },
+  {
+    "text": "I like to play with my friends!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G"
+  },
+  {
+    "text": "There are some emotional scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG"
+  },
+  {
+    "text": "I enjoy reading books!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G"
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G"
+  },
+  {
+    "text": "This has strong language throughout.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R"
+  },
+  {
+    "text": "This has explicit content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Nobody would miss me if I was gone.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I need help with my mental health.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel hopeless sometimes.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I have nothing left to live for.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I'm excited about the future!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to die.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm reaching out for support.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I need emotional support.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I'm excited about the future!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I've been feeling sad recently.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I want to die.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I have nothing left to live for.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I need to talk to someone.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I need to talk to someone.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to hurt myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I'm going through a tough time.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel stressed and anxious.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I've been having negative thoughts.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm having a hard time coping.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  }
+]

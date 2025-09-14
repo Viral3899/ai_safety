@@ -1,0 +1,635 @@
+{
+  "abuse_detector": [
+    {
+      "text": "This is a great conversation.",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "This is a great conversation.",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "You are a fucking moron!",
+      "label": 1,
+      "category": "severe_abuse",
+      "severity": "severe"
+    },
+    {
+      "text": "I despise everything about you!",
+      "label": 1,
+      "category": "severe_abuse",
+      "severity": "severe"
+    },
+    {
+      "text": "This is so stupid!",
+      "label": 1,
+      "category": "mild_abuse",
+      "severity": "mild"
+    },
+    {
+      "text": "I hate you, you stupid idiot!",
+      "label": 1,
+      "category": "severe_abuse",
+      "severity": "severe"
+    },
+    {
+      "text": "This is damn frustrating!",
+      "label": 1,
+      "category": "mild_abuse",
+      "severity": "mild"
+    },
+    {
+      "text": "Please let me know if you need anything.",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "Thank you for your help!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "Have a wonderful day!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "Thank you for your help!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "I hope you have a good weekend!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "What the heck is this?",
+      "label": 1,
+      "category": "mild_abuse",
+      "severity": "mild"
+    },
+    {
+      "text": "Have a wonderful day!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "What a stupid idea!",
+      "label": 1,
+      "category": "mild_abuse",
+      "severity": "mild"
+    },
+    {
+      "text": "Hello, how are you today?",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "What the hell is going on?",
+      "label": 1,
+      "category": "mild_abuse",
+      "severity": "mild"
+    },
+    {
+      "text": "You are a worthless piece of shit!",
+      "label": 1,
+      "category": "severe_abuse",
+      "severity": "severe"
+    },
+    {
+      "text": "I appreciate your assistance.",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "You are a worthless piece of shit!",
+      "label": 1,
+      "category": "severe_abuse",
+      "severity": "severe"
+    },
+    {
+      "text": "Please let me know if you need anything.",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "Hello, how are you today?",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "This is ridiculous!",
+      "label": 1,
+      "category": "mild_abuse",
+      "severity": "mild"
+    },
+    {
+      "text": "This is so stupid!",
+      "label": 1,
+      "category": "mild_abuse",
+      "severity": "mild"
+    },
+    {
+      "text": "I'm looking forward to our meeting.",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "Have a wonderful day!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "I appreciate your assistance.",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "I hope you have a good weekend!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "This is a great conversation.",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "You are a complete asshole!",
+      "label": 1,
+      "category": "severe_abuse",
+      "severity": "severe"
+    },
+    {
+      "text": "I'm so pissed off!",
+      "label": 1,
+      "category": "mild_abuse",
+      "severity": "mild"
+    },
+    {
+      "text": "This is a great conversation.",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "Hello, how are you today?",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    }
+  ],
+  "crisis_detector": [
+    {
+      "text": "I feel happy and content!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "Nobody would miss me if I was gone.",
+      "label": 1,
+      "category": "crisis",
+      "severity": "severe"
+    },
+    {
+      "text": "I love my family!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "I feel happy and content!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "I need help with my mental health.",
+      "label": 1,
+      "category": "help_seeking",
+      "severity": "moderate"
+    },
+    {
+      "text": "I love my family!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "I love my family!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "I feel hopeless sometimes.",
+      "label": 1,
+      "category": "mild_concern",
+      "severity": "mild"
+    },
+    {
+      "text": "I have nothing left to live for.",
+      "label": 1,
+      "category": "crisis",
+      "severity": "severe"
+    },
+    {
+      "text": "I'm excited about the future!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "I want to die.",
+      "label": 1,
+      "category": "crisis",
+      "severity": "severe"
+    },
+    {
+      "text": "Life is wonderful!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "Today is a beautiful day!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "I love my family!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "I'm reaching out for support.",
+      "label": 1,
+      "category": "help_seeking",
+      "severity": "moderate"
+    },
+    {
+      "text": "I need emotional support.",
+      "label": 1,
+      "category": "help_seeking",
+      "severity": "moderate"
+    },
+    {
+      "text": "I'm excited about the future!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "Everything is going well!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "I've been feeling sad recently.",
+      "label": 1,
+      "category": "mild_concern",
+      "severity": "mild"
+    },
+    {
+      "text": "I want to die.",
+      "label": 1,
+      "category": "crisis",
+      "severity": "severe"
+    },
+    {
+      "text": "I am feeling great today!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "I have nothing left to live for.",
+      "label": 1,
+      "category": "crisis",
+      "severity": "severe"
+    },
+    {
+      "text": "I need to talk to someone.",
+      "label": 1,
+      "category": "help_seeking",
+      "severity": "moderate"
+    },
+    {
+      "text": "I need to talk to someone.",
+      "label": 1,
+      "category": "help_seeking",
+      "severity": "moderate"
+    },
+    {
+      "text": "Today is a beautiful day!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "I want to hurt myself.",
+      "label": 1,
+      "category": "crisis",
+      "severity": "severe"
+    },
+    {
+      "text": "I'm going through a tough time.",
+      "label": 1,
+      "category": "mild_concern",
+      "severity": "mild"
+    },
+    {
+      "text": "I feel happy and content!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "I feel stressed and anxious.",
+      "label": 1,
+      "category": "mild_concern",
+      "severity": "mild"
+    },
+    {
+      "text": "I've been having negative thoughts.",
+      "label": 1,
+      "category": "mild_concern",
+      "severity": "mild"
+    },
+    {
+      "text": "I'm having a hard time coping.",
+      "label": 1,
+      "category": "mild_concern",
+      "severity": "mild"
+    },
+    {
+      "text": "Life is full of possibilities!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    },
+    {
+      "text": "Life is wonderful!",
+      "label": 0,
+      "category": "safe",
+      "severity": "none"
+    }
+  ],
+  "content_filter": [
+    {
+      "text": "My teacher is nice!",
+      "label": 0,
+      "age_group": "child",
+      "category": "safe",
+      "rating": "G"
+    },
+    {
+      "text": "This contains some scary elements.",
+      "label": 0,
+      "age_group": "teen",
+      "category": "moderate",
+      "rating": "PG"
+    },
+    {
+      "text": "I like to play with my friends!",
+      "label": 0,
+      "age_group": "child",
+      "category": "safe",
+      "rating": "G"
+    },
+    {
+      "text": "I love my pet dog!",
+      "label": 0,
+      "age_group": "child",
+      "category": "safe",
+      "rating": "G"
+    },
+    {
+      "text": "Learning is exciting!",
+      "label": 0,
+      "age_group": "child",
+      "category": "safe",
+      "rating": "G"
+    },
+    {
+      "text": "I love my parents!",
+      "label": 0,
+      "age_group": "child",
+      "category": "safe",
+      "rating": "G"
+    },
+    {
+      "text": "This has extreme violence.",
+      "label": 1,
+      "age_group": "teen",
+      "category": "adult",
+      "rating": "R"
+    },
+    {
+      "text": "This contains some scary elements.",
+      "label": 0,
+      "age_group": "teen",
+      "category": "moderate",
+      "rating": "PG"
+    },
+    {
+      "text": "This contains drug use and abuse.",
+      "label": 1,
+      "age_group": "teen",
+      "category": "adult",
+      "rating": "R"
+    },
+    {
+      "text": "This has some suspenseful moments.",
+      "label": 1,
+      "age_group": "teen",
+      "category": "moderate",
+      "rating": "PG-13"
+    },
+    {
+      "text": "This contains disturbing themes.",
+      "label": 1,
+      "age_group": "teen",
+      "category": "adult",
+      "rating": "R"
+    },
+    {
+      "text": "This contains mature sexual content.",
+      "label": 1,
+      "age_group": "teen",
+      "category": "adult",
+      "rating": "R"
+    },
+    {
+      "text": "There is mild violence in this content.",
+      "label": 0,
+      "age_group": "teen",
+      "category": "moderate",
+      "rating": "PG"
+    },
+    {
+      "text": "I love my pet dog!",
+      "label": 0,
+      "age_group": "child",
+      "category": "safe",
+      "rating": "G"
+    },
+    {
+      "text": "This contains mature sexual content.",
+      "label": 1,
+      "age_group": "child",
+      "category": "adult",
+      "rating": "R"
+    },
+    {
+      "text": "This contains some scary elements.",
+      "label": 0,
+      "age_group": "teen",
+      "category": "moderate",
+      "rating": "PG"
+    },
+    {
+      "text": "School is fun!",
+      "label": 0,
+      "age_group": "child",
+      "category": "safe",
+      "rating": "G"
+    },
+    {
+      "text": "This has strong language throughout.",
+      "label": 1,
+      "age_group": "teen",
+      "category": "adult",
+      "rating": "R"
+    },
+    {
+      "text": "There is mild violence in this content.",
+      "label": 1,
+      "age_group": "teen",
+      "category": "moderate",
+      "rating": "PG-13"
+    },
+    {
+      "text": "This contains some scary elements.",
+      "label": 0,
+      "age_group": "teen",
+      "category": "moderate",
+      "rating": "PG"
+    },
+    {
+      "text": "This contains some mature themes.",
+      "label": 1,
+      "age_group": "teen",
+      "category": "moderate",
+      "rating": "PG-13"
+    },
+    {
+      "text": "My teacher is nice!",
+      "label": 0,
+      "age_group": "child",
+      "category": "safe",
+      "rating": "G"
+    },
+    {
+      "text": "Graphic violence and gore.",
+      "label": 1,
+      "age_group": "teen",
+      "category": "adult",
+      "rating": "R"
+    },
+    {
+      "text": "This contains drug use and abuse.",
+      "label": 1,
+      "age_group": "teen",
+      "category": "adult",
+      "rating": "R"
+    },
+    {
+      "text": "This contains explicit sexual content.",
+      "label": 1,
+      "age_group": "teen",
+      "category": "adult",
+      "rating": "R"
+    },
+    {
+      "text": "School is fun!",
+      "label": 0,
+      "age_group": "child",
+      "category": "safe",
+      "rating": "G"
+    },
+    {
+      "text": "I enjoy reading books!",
+      "label": 0,
+      "age_group": "child",
+      "category": "safe",
+      "rating": "G"
+    },
+    {
+      "text": "I like to play with my friends!",
+      "label": 0,
+      "age_group": "child",
+      "category": "safe",
+      "rating": "G"
+    },
+    {
+      "text": "There are some emotional scenes.",
+      "label": 0,
+      "age_group": "teen",
+      "category": "moderate",
+      "rating": "PG"
+    },
+    {
+      "text": "I enjoy reading books!",
+      "label": 0,
+      "age_group": "child",
+      "category": "safe",
+      "rating": "G"
+    },
+    {
+      "text": "I love my pet dog!",
+      "label": 0,
+      "age_group": "child",
+      "category": "safe",
+      "rating": "G"
+    },
+    {
+      "text": "This has strong language throughout.",
+      "label": 1,
+      "age_group": "teen",
+      "category": "adult",
+      "rating": "R"
+    },
+    {
+      "text": "This has explicit content.",
+      "label": 1,
+      "age_group": "teen",
+      "category": "adult",
+      "rating": "R"
+    }
+  ]
+}

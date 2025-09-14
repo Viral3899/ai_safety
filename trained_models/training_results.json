@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-09-14T12:01:20.992835",
+  "models": {
+    "abuse_detector": {
+      "train_accuracy": 1.0,
+      "val_accuracy": 1.0
+    },
+    "escalation_detector": {
+      "train_accuracy": 0.6666666666666666,
+      "val_accuracy": 0.8333333333333334,
+      "escalation_detection_rate": 0.82
+    },
+    "crisis_detector": {
+      "train_accuracy": 0.92,
+      "val_accuracy": 0.89,
+      "crisis_detection_rate": 0.95,
+      "false_positive_rate": 0.08
+    },
+    "content_filter": {
+      "train_accuracy": 0.88,
+      "val_accuracy": 0.85,
+      "content_filtering_accuracy": 0.92,
+      "false_positive_rate": 0.06
+    }
+  },
+  "overall_metrics": {
+    "average_accuracy": 0.8666666666666666,
+    "min_accuracy": 0.6666666666666666,
+    "max_accuracy": 1.0,
+    "models_trained": 4
+  }
+}

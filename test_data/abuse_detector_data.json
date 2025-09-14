@@ -1,0 +1,200 @@
+[
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a fucking moron!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I despise everything about you!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "This is so stupid!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I hate you, you stupid idiot!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "This is damn frustrating!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What the heck is this?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What a stupid idea!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What the hell is going on?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "You are a worthless piece of shit!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a worthless piece of shit!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is ridiculous!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is so stupid!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a complete asshole!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I'm so pissed off!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  }
+]
