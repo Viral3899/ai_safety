@@ -1,0 +1,3140 @@
+[
+  {
+    "text": "I despise everything about you!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "This is ridiculous!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I think this is absolutely terrible, you're a failure",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to destroy you!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Well, thanks for sharing this information",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I hate you, you stupid idiot!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Personally, you're a complete idiot and should die",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I can't believe this crap!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is annoying as hell!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I think this is a solid approach",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is damn frustrating!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I can't believe this crap!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Personally, i think this is a solid approach",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is pretty bad, not impressed",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "You are a worthless waste of space!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Well, you're not very good at this",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a fucking moron!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is damn frustrating!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "What the heck is this?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "What the hell is going on?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Personally, i'm not a fan of this approach",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is damn frustrating!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What the heck is this?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "You are a worthless piece of shit!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a worthless piece of shit!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What the heck is this?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I can't believe this crap!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is complete bullshit!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I think this is the worst thing i've ever seen, you're garbage",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is so stupid!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "You are a complete asshole!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Well, i think this is a solid approach",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I appreciate your help with this",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "This is ridiculous!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to destroy you!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Well, this looks really good to me",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is so stupid!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Well, i think this is a solid approach",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I think i hate you so much, you're worthless",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What a stupid idea!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "You are a fucking moron!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm so pissed off!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This looks really good to me",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is damn frustrating!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I can't believe this crap!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a worthless waste of space!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "This is so stupid!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What the hell is going on?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Well, i think this is a solid approach",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a fucking moron!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Personally, you're such a loser, nobody likes you",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What the hell is going on?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Well, this is the worst thing i've ever seen, you're garbage",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "I think you're a complete idiot and should die",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "I despise everything about you!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I despise everything about you!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Personally, i'm not a fan of this approach",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "You are a complete asshole!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I'm so pissed off!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I want to hurt you badly!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Well, this could be better, honestly",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "I can't believe this crap!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I hate you, you stupid idiot!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is damn frustrating!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Honestly, this could be better, honestly",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "I can't believe this crap!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm so pissed off!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I can't believe this crap!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is annoying as hell!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I think this is pretty bad, not impressed",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I think this is a great idea, i like it",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What the heck is this?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "You are a worthless waste of space!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Honestly, this is the worst thing i've ever seen, you're garbage",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Well, i hate you so much, you're worthless",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is ridiculous!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "You are a fucking moron!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Personally, i think this is a solid approach",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "You are a worthless piece of shit!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I think i'm not a fan of this approach",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "This is damn frustrating!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Personally, you're such a loser, nobody likes you",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "This doesn't work well for me",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "I can't believe this crap!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Well, i appreciate your help with this",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to hurt you badly!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What a stupid idea!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I think i hate you so much, you're worthless",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a worthless waste of space!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is damn frustrating!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Well, you're a complete idiot and should die",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is damn frustrating!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Personally, you're not very good at this",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "You are a fucking moron!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "What a stupid idea!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Well, you're such a loser, nobody likes you",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "What the heck is this?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to hurt you badly!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "This is pretty bad, not impressed",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "Honestly, i appreciate your help with this",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a complete asshole!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Well, i hate you so much, you're worthless",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "I despise everything about you!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "This is a great idea, I like it",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "You are a complete asshole!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "This is annoying as hell!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "You are a complete asshole!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What the heck is this?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I hate your fucking guts!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Personally, thanks for sharing this information",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What a stupid idea!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is complete bullshit!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "You are a fucking moron!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "What the hell is going on?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is annoying as hell!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is annoying as hell!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Personally, i think this is a solid approach",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Personally, i'm not a fan of this approach",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm so pissed off!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "What the hell is going on?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Honestly, i appreciate your help with this",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "What a stupid idea!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is so stupid!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is ridiculous!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is ridiculous!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is annoying as hell!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is ridiculous!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Personally, i'm not a fan of this approach",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is damn frustrating!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I want to destroy you!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "This is annoying as hell!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm so pissed off!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Honestly, you're a complete idiot and should die",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to destroy you!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What the hell is going on?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is so stupid!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What the hell is going on?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I appreciate your help with this",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is complete bullshit!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is pretty bad, not impressed",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "This is annoying as hell!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a fucking moron!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I think i appreciate your help with this",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is so stupid!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Well, this looks really good to me",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "This is damn frustrating!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to hurt you badly!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a pathetic loser!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Personally, thanks for sharing this information",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What the heck is this?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Well, this is the worst thing i've ever seen, you're garbage",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What the heck is this?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Honestly, i'm not a fan of this approach",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "This is annoying as hell!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is annoying as hell!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm not a fan of this approach",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a worthless waste of space!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "This is complete bullshit!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Personally, this is a great idea, i like it",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "This is ridiculous!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Honestly, this could be better, honestly",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Personally, i'm not a fan of this approach",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I think this could be better, honestly",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I think this is a great idea, i like it",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Honestly, you're not very good at this",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "I think this is pretty bad, not impressed",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You're not very good at this",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Honestly, this is absolutely terrible, you're a failure",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "I think this is the worst thing i've ever seen, you're garbage",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a pathetic loser!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I want to destroy you!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "What the hell is going on?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Well, you're not very good at this",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "I think you're not very good at this",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I can't believe this crap!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is so stupid!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is complete bullshit!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is complete bullshit!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is damn frustrating!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Well, i appreciate your help with this",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "What the heck is this?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is ridiculous!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Well, this is pretty bad, not impressed",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "You are a pathetic loser!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is annoying as hell!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is complete bullshit!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "What a stupid idea!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is complete bullshit!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Well, i think this is a solid approach",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "This looks really good to me",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Honestly, this is absolutely terrible, you're a failure",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "You are a pathetic loser!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I want to destroy you!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a worthless piece of shit!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Personally, i'm not a fan of this approach",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm so pissed off!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Well, you're not very good at this",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What a stupid idea!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Well, i'm not a fan of this approach",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "You are a worthless waste of space!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I can't believe this crap!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I can't believe this crap!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I want to destroy you!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Well, this is a great idea, i like it",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Well, this is a great idea, i like it",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a fucking moron!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is complete bullshit!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What the hell is going on?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is damn frustrating!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "What the hell is going on?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I can't believe this crap!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Honestly, you're such a loser, nobody likes you",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "What the hell is going on?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is ridiculous!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is ridiculous!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Well, this is a great idea, i like it",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "What the heck is this?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What the heck is this?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I appreciate your help with this",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "You are a complete asshole!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is so stupid!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "What the heck is this?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I appreciate your help with this",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Honestly, this is the worst thing i've ever seen, you're garbage",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This looks really good to me",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "This is ridiculous!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "You are a worthless waste of space!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a pathetic loser!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to hurt you badly!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I hope you have a good weekend!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is damn frustrating!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Well, this doesn't work well for me",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I think this is the worst thing i've ever seen, you're garbage",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Honestly, you're not very good at this",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "I can't believe this crap!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a worthless piece of shit!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What the hell is going on?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a pathetic loser!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is a great conversation.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is damn frustrating!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "The weather is nice today.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "What the heck is this?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is annoying as hell!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Please let me know if you need anything.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Thank you for your help!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is annoying as hell!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I hate your fucking guts!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I want to hurt you badly!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I hate your fucking guts!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is complete bullshit!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I want to destroy you!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "This is annoying as hell!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Well, i think this is a solid approach",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "What the heck is this?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "What a stupid idea!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I think you're a complete idiot and should die",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "This is complete bullshit!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is so stupid!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "What a stupid idea!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "You are a complete asshole!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Well, you're not very good at this",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm so pissed off!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "This is damn frustrating!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I hate your fucking guts!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I'm looking forward to our meeting.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "You are a fucking moron!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I appreciate your assistance.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is ridiculous!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to hurt you badly!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "You are a pathetic loser!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I can't believe this crap!",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "What the heck is this?",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "mild"
+  },
+  {
+    "text": "I think i hate you so much, you're worthless",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "high"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "This is pretty bad, not impressed",
+    "label": 1,
+    "category": "mild_abuse",
+    "severity": "medium"
+  },
+  {
+    "text": "Have a wonderful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I think thanks for sharing this information",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I despise everything about you!",
+    "label": 1,
+    "category": "severe_abuse",
+    "severity": "severe"
+  },
+  {
+    "text": "I enjoyed our discussion.",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  }
+]

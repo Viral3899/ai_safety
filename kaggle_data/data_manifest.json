@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-09-15T11:05:46.489801",
+  "datasets": [
+    {
+      "file": "processed_crisis_data.json",
+      "samples": 1259,
+      "type": "crisis_data"
+    }
+  ],
+  "total_samples": 1259
+}

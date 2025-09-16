@@ -1,0 +1,4186 @@
+[
+  {
+    "text": "This has explicit content.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains some mature themes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "This contains explicit sexual content.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Content notice: safe for children and adults alike",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "This contains some scary elements.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "There are some intense moments.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This has some dramatic content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "Note: contains graphic violence and language",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "There is mild violence in this content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Warning: contains some adult references",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "Safe for children and adults alike",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "This has disturbing imagery.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This contains some scary elements.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Learning is exciting!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There are some emotional scenes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "Let's learn about animals!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I enjoy reading books!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Content notice: clean and appropriate content here",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "This has some dramatic content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains some mature themes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Graphic violence and gore.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains drug use and abuse.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains some mature themes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This contains some mature themes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Contains graphic violence and language",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains disturbing themes.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has disturbing imagery.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Graphic violence and gore.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "There is some mild profanity.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: this is family-friendly content",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "Content notice: clean and appropriate content here",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "There is mild violence in this content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This contains mature sexual content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Note: suitable for all ages and audiences",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "Let's learn about animals!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has some suspenseful moments.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "This has explicit content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains some mature themes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: mixed audience content with some warnings",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: this has some mild language and themes",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "Learning is exciting!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Mature audiences only content here",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains some mature themes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Warning: mature audiences only content here",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Content notice: has some mature content elements",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "Playing outside is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: this contains explicit sexual content",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "Please be aware: mixed audience content with some warnings",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Playing outside is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Graphic violence and gore.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has some dramatic content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Content notice: educational and wholesome material",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Learning is exciting!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains mature sexual content.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains disturbing themes.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains graphic sexual scenes.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Graphic violence and gore.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Educational and wholesome material",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains disturbing themes.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Note: educational and wholesome material",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "This has some dramatic content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This contains explicit sexual content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains some scary elements.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This has some dramatic content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This contains explicit sexual content.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains mature sexual content.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Graphic violence and gore.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This has some dramatic content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "There is some mild profanity.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This has explicit content.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I like to play with my friends!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There are some intense moments.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has disturbing imagery.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has disturbing imagery.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains mature sexual content.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains some scary elements.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "Warning: contains some adult references",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "This has strong language throughout.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains some scary elements.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "I enjoy reading books!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "This has extreme violence.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains drug use and abuse.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Warning: may not be suitable for all audiences",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "Note: this contains explicit sexual content",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "This contains mature sexual content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Content notice: contains some adult references",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "This contains some scary elements.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "There is some mild profanity.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This has explicit content.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Learning is exciting!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has strong language throughout.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Warning: contains graphic violence and language",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "This contains graphic sexual scenes.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There is some mild profanity.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Adult themes and mature content ahead",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Graphic violence and gore.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Let's learn about animals!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Playing outside is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This movie has some action scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "I like to play with my friends!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This movie has some action scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Playing outside is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Content notice: this contains explicit sexual content",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "Note: mixed audience content with some warnings",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "Learning is exciting!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Let's learn about animals!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This has some dramatic content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: this contains explicit sexual content",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I enjoy reading books!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains explicit sexual content.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This has strong language throughout.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "There is mild violence in this content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Warning: contains some adult references",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "Note: not suitable for children or minors",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "This contains drug use and abuse.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This has some mild language and themes",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "This has explicit content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This has disturbing imagery.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I like to play with my friends!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Playing outside is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Learning is exciting!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains explicit sexual content.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I enjoy reading books!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There is some mild profanity.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "There are some emotional scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This has strong language throughout.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Playing outside is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Safe for children and adults alike",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "This has some dramatic content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "There are some intense moments.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "There are some emotional scenes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "I like to play with my friends!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains explicit sexual content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has strong language throughout.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has strong language throughout.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This has strong language throughout.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains drug use and abuse.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: not suitable for children or minors",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "This has strong language throughout.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This has explicit content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has strong language throughout.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This has explicit content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This movie has some action scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Let's learn about animals!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Note: has some mature content elements",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "This contains graphic sexual scenes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains graphic sexual scenes.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Graphic violence and gore.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains explicit sexual content",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "Graphic violence and gore.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Learning is exciting!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There is some mild profanity.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Let's learn about animals!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has extreme violence.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains drug use and abuse.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Warning: suitable for all ages and audiences",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "Let's learn about animals!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Playing outside is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This movie has some action scenes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Content notice: this is family-friendly content",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "Content notice: educational and wholesome material",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "Warning: mature audiences only content here",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "This has explicit content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Content notice: mature audiences only content here",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "Please be aware: may not be suitable for all audiences",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "There is mild violence in this content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Graphic violence and gore.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "There are some emotional scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There are some intense moments.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: mixed audience content with some warnings",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "This movie has some action scenes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "This contains some scary elements.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There is some mild profanity.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "This movie has some action scenes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains some scary elements.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Safe for children and adults alike",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "This contains explicit sexual content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains drug use and abuse.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains explicit sexual content",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "I enjoy reading books!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There are some intense moments.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This contains some mature themes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Content notice: suitable for all ages and audiences",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "I like to play with my friends!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Let's learn about animals!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has some suspenseful moments.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Warning: safe for children and adults alike",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "Note: educational and wholesome material",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "There is mild violence in this content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: contains some adult references",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "Content notice: clean and appropriate content here",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "This contains some mature themes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "This contains explicit sexual content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Content notice: mixed audience content with some warnings",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "Let's learn about animals!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "This has some suspenseful moments.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There are some intense moments.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "There is some mild profanity.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains drug use and abuse.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Learning is exciting!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Learning is exciting!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Mixed audience content with some warnings",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "This contains some scary elements.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: safe for children and adults alike",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "This has some dramatic content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This has extreme violence.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "There are some intense moments.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Playing outside is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains mature sexual content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "There is some mild profanity.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has some suspenseful moments.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "Note: this contains explicit sexual content",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "Playing outside is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: has some mature content elements",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "This contains some mature themes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This has some dramatic content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Learning is exciting!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "Playing outside is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This movie has some action scenes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains mature sexual content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This movie has some action scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Warning: safe for children and adults alike",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "This has explicit content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Note: this is family-friendly content",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I enjoy reading books!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has strong language throughout.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Not suitable for children or minors",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has strong language throughout.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Playing outside is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There is some mild profanity.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "This has extreme violence.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: clean and appropriate content here",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "This contains mature sexual content.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains drug use and abuse.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Playing outside is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: has some mature content elements",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "This contains disturbing themes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Note: this contains explicit sexual content",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "This contains some mature themes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Note: this contains explicit sexual content",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "This has some dramatic content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This has strong language throughout.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "There are some emotional scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This contains disturbing themes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There is some mild profanity.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "There is some mild profanity.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This has disturbing imagery.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Note: this contains explicit sexual content",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This movie has some action scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "There is mild violence in this content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This movie has some action scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This contains some scary elements.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This contains drug use and abuse.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Content notice: contains some adult references",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "I like to play with my friends!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has extreme violence.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains explicit sexual content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This has extreme violence.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Note: safe for children and adults alike",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "Please be aware: not suitable for children or minors",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "Content notice: not suitable for children or minors",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There is mild violence in this content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "Contains graphic violence and language",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "Graphic violence and gore.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There is mild violence in this content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This has strong language throughout.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains graphic sexual scenes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This contains some scary elements.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has extreme violence.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I enjoy reading books!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Content notice: this is family-friendly content",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "There is some mild profanity.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This contains drug use and abuse.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I enjoy reading books!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There are some emotional scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This has some mild language and themes",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "This has strong language throughout.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Learning is exciting!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Graphic violence and gore.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: may not be suitable for all audiences",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "This contains disturbing themes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Note: has some mature content elements",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I like to play with my friends!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has disturbing imagery.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Note: contains graphic violence and language",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "This contains disturbing themes.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This has some suspenseful moments.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: this is family-friendly content",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "This contains disturbing themes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains mature sexual content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Learning is exciting!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Playing outside is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has some suspenseful moments.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "There are some emotional scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This contains mature sexual content.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Let's learn about animals!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I enjoy reading books!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There are some emotional scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "There is some mild profanity.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "This has disturbing imagery.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I enjoy reading books!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Adult themes and mature content ahead",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "Warning: this has some mild language and themes",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This movie has some action scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "I enjoy reading books!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Let's learn about animals!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There is some mild profanity.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "Playing outside is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has some mild language and themes",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "Warning: safe for children and adults alike",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: adult themes and mature content ahead",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "Let's learn about animals!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has extreme violence.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains graphic sexual scenes.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains disturbing themes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Content notice: has some mature content elements",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "This contains drug use and abuse.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: not suitable for children or minors",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "There are some emotional scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Playing outside is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: contains some adult references",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "There is some mild profanity.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This movie has some action scenes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "Suitable for all ages and audiences",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains mature sexual content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This is family-friendly content",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "Note: mature audiences only content here",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Content notice: suitable for all ages and audiences",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "Clean and appropriate content here",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "This contains some mature themes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "Graphic violence and gore.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "There is some mild profanity.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "I enjoy reading books!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Playing outside is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has explicit content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "There is mild violence in this content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This contains some mature themes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This has some dramatic content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Learning is exciting!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Content notice: mixed audience content with some warnings",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "There is mild violence in this content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Note: has some mature content elements",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There are some emotional scenes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "Playing outside is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There is mild violence in this content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Content notice: contains graphic violence and language",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "May not be suitable for all audiences",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Content notice: safe for children and adults alike",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "This has explicit content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Let's learn about animals!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains explicit sexual content.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains explicit sexual content.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains drug use and abuse.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "There are some emotional scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Learning is exciting!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has disturbing imagery.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I enjoy reading books!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There are some intense moments.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This movie has some action scenes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "This has some dramatic content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This contains some scary elements.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This contains explicit sexual content.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This movie has some action scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: clean and appropriate content here",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "This has disturbing imagery.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains explicit sexual content.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: this is family-friendly content",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "My teacher is nice!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Warning: this is family-friendly content",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "This has some dramatic content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This has disturbing imagery.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains mature sexual content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This has explicit content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "There are some intense moments.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "I like to play with my friends!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains disturbing themes.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "There is some conflict in the story.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "This has extreme violence.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my parents!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "I love my pet dog!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Content notice: adult themes and mature content ahead",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "This contains disturbing themes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Graphic violence and gore.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This has extreme violence.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This contains drug use and abuse.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Has some mature content elements",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "This contains drug use and abuse.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "School is fun!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This contains drug use and abuse.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This has some mild language and themes",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "Graphic violence and gore.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "There are some emotional scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This movie has some action scenes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "Suitable for all ages and audiences",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "This contains disturbing themes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "age_group": "child",
+    "category": "safe",
+    "rating": "G",
+    "severity": NaN
+  },
+  {
+    "text": "This has explicit content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Adult themes and mature content ahead",
+    "label": 1,
+    "age_group": NaN,
+    "category": "adult",
+    "rating": NaN,
+    "severity": "high"
+  },
+  {
+    "text": "This has extreme violence.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "Please be aware: has some mature content elements",
+    "label": 1,
+    "age_group": NaN,
+    "category": "moderate",
+    "rating": NaN,
+    "severity": "medium"
+  },
+  {
+    "text": "This has extreme violence.",
+    "label": 1,
+    "age_group": "child",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "There are some emotional scenes.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This contains explicit sexual content.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "adult",
+    "rating": "R",
+    "severity": NaN
+  },
+  {
+    "text": "This has some dramatic content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "This contains some scary elements.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  },
+  {
+    "text": "Educational and wholesome material",
+    "label": 0,
+    "age_group": NaN,
+    "category": "safe",
+    "rating": NaN,
+    "severity": "low"
+  },
+  {
+    "text": "There are some emotional scenes.",
+    "label": 1,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG-13",
+    "severity": NaN
+  },
+  {
+    "text": "There is mild violence in this content.",
+    "label": 0,
+    "age_group": "teen",
+    "category": "moderate",
+    "rating": "PG",
+    "severity": NaN
+  }
+]

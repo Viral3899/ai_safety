@@ -57,9 +57,9 @@ def download_dataset(dataset_name: str, output_dir: str):
 def download_abuse_detection_data(output_dir: str):
     """Download abuse detection dataset."""
     datasets = [
-        "jigsaw-toxic-comment-classification-challenge",
-        "jigsaw-unintended-bias-in-toxicity-classification",
-        "detecting-insults-in-social-commentary"
+        "jigsaw/toxic-comment-classification-challenge",
+        "jigsaw/jigsaw-unintended-bias-in-toxicity-classification",
+        "cmsc320/reddit-comment-score-prediction"
     ]
     
     for dataset in datasets:
@@ -71,9 +71,9 @@ def download_abuse_detection_data(output_dir: str):
 def download_crisis_detection_data(output_dir: str):
     """Download crisis detection dataset."""
     datasets = [
-        "suicide-and-depression-detection",
-        "mental-health-in-tech-survey",
-        "reddit-mental-health-posts"
+        "osmi/mental-health-in-tech-survey",
+        "thedevastator/mental-health-dataset",
+        "bhavikbb/presidential-election"
     ]
     
     for dataset in datasets:
@@ -85,9 +85,9 @@ def download_crisis_detection_data(output_dir: str):
 def download_content_filtering_data(output_dir: str):
     """Download content filtering dataset."""
     datasets = [
-        "common-crawl-news-comments",
-        "youtube-comments-classification",
-        "social-media-content-moderation"
+        "crowdflower/sentiment-analysis-in-text",
+        "datatattle/cyberbullying-classification",
+        "bhavikbb/presidential-election"
     ]
     
     for dataset in datasets:

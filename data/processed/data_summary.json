@@ -1,0 +1,33 @@
+{
+  "total_models": 3,
+  "models": {
+    "abuse_detector": {
+      "total_samples": 3333,
+      "train_samples": 2666,
+      "test_samples": 667,
+      "label_distribution": {
+        "0": 1599,
+        "1": 1067
+      }
+    },
+    "crisis_detector": {
+      "total_samples": 4244,
+      "train_samples": 3395,
+      "test_samples": 849,
+      "label_distribution": {
+        "1": 1550,
+        "0": 1378,
+        "2": 467
+      }
+    },
+    "content_filter": {
+      "total_samples": 3333,
+      "train_samples": 2666,
+      "test_samples": 667,
+      "label_distribution": {
+        "0": 1655,
+        "1": 1011
+      }
+    }
+  }
+}

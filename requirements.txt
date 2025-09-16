@@ -32,3 +32,6 @@ ipykernel
 # Text processing
 textblob
 vaderSentiment
+
+# Data download
+kaggle

@@ -1,0 +1,4226 @@
+[
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I don't see any point in living.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I've been having negative thoughts.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Recently, i've been feeling really down lately, need help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I feel hopeless sometimes.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking for professional help.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I'm excited about the future!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Recently, i'm struggling with depression and anxiety",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Lately, i'm planning to hurt myself, nobody cares",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Sometimes i think i need professional help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm going through a tough time.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I want to die.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I want to hurt myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Life isn't worth living, I'm done",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I need to talk to someone.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Sometimes i'm struggling with depression and anxiety",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Lately, i've been feeling really down lately, need help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Recently, i think i need professional help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Lately, i've been feeling a bit stressed lately",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "Recently, i think i need professional help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm reaching out for support.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel stressed and anxious.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Work has been really overwhelming",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I have nothing left to live for.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "work interference family history",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Lately, i feel anxious about the future",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I feel confident about the future",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I've been feeling sad recently.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm going through a tough time.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Sometimes i feel confident about the future",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I feel hopeless sometimes.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Sometimes i can't go on like this, i want to die",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I don't see any point in living.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I am feeling a bit down today.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm going through a tough time.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm excited about the future!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel hopeless sometimes.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I've been thinking, i'm not sure how to handle this situation",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "Lately, i'm struggling with depression and anxiety",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I want to kill myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Sometimes i'm having trouble sleeping",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I've been thinking, i've been feeling really down lately, need help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm having trouble sleeping",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "Lately, i've been feeling a bit stressed lately",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm excited about the future!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Life is going pretty smoothly right now",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "seeking treatment",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Lately, i've been feeling a bit stressed lately",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I've been feeling sad recently.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Nobody would miss me if I was gone.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to die.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I have nothing left to live for.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "My refer to the mental health issue of depression.  I might answer differently if I was talking about a more serious issue like schizophrenia seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm having a hard time coping.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Lately, i think i need professional help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm excited about the future!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm excited about the future!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm having a hard time coping.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I need mental health resources.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "Nobody would miss me if I was gone.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Life isn't worth living, I'm done",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I need help with my mental health.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I am feeling a bit down today.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Recently, i'm planning to hurt myself, nobody cares",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I need help with my mental health.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "Lately, everything seems to be working out fine",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I'm planning to end my life.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Life is going pretty smoothly right now",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I want to die.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Sometimes life is going pretty smoothly right now",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I'm not sure how to handle this situation",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I want to kill myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I don't see any point in living.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Lately, i can't go on like this, i want to die",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Sometimes i don't want to live anymore, everything is hopeless",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "work interference",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel overwhelmed sometimes.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "family history",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I am feeling a bit down today.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Recently, i can't go on like this, i want to die",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Lately, i feel anxious about the future",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm asking for help.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I want to disappear forever.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I've been thinking, i'm struggling with depression and anxiety",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to hurt myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I don't see any point in living.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm planning to end my life.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I need help with my mental health.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I need someone to talk to about my problems",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I feel hopeless sometimes.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm doing well today, feeling good",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I want to kill myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "work interference",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Stigma is the worst. People first language is a small step but we can't get that right. seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel hopeless sometimes.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Lately, i've been feeling really down lately, need help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I want to die.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "work interference",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm going through a tough time.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Recently, i can't go on like this, i want to die",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Sometimes i'm having a hard time coping with stress",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I've been feeling sad recently.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel anxious about the future",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "Recently, i'm planning to hurt myself, nobody cares",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Nobody would miss me if I was gone.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Lately, i feel confident about the future",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I have been struggling lately.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "seeking treatment family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm doing well today, feeling good",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Nobody would miss me if I was gone.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "work interference",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Sometimes i'm thinking about ending it all, nothing matters",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I feel hopeless sometimes.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm seeking counseling.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I've been having negative thoughts.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I need mental health resources.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I want to die.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I have nothing left to live for.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "seeking treatment family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I've been feeling sad recently.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Recently, i need someone to talk to about my problems",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I've been thinking, i'm thinking about ending it all, nothing matters",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to disappear forever.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Sometimes i don't want to live anymore, everything is hopeless",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Recently, i'm having trouble sleeping",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I've been thinking, i'm having trouble sleeping",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to end it all.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I want to disappear forever.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I have nothing left to live for.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to disappear forever.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I need emotional support.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "So much depends upon the organization.  seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I've been thinking, i've been feeling a bit stressed lately",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I've been feeling sad recently.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Lately, i'm happy with how things are going",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "family history",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel overwhelmed sometimes.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "family history",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I've been having negative thoughts.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I need emotional support.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I want to end it all.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Recently, life isn't worth living, i'm done",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I've been thinking, i think i need professional help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking for professional help.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I'm doing well today, feeling good",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm asking for help.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "seeking treatment family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I can't go on anymore.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I feel hopeless sometimes.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Recently, i've been feeling a bit stressed lately",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "Sometimes i'm happy with how things are going",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I want to hurt myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I'm looking for professional help.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to disappear forever.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Can someone talk to me?",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "work interference",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm going through a tough time.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm having trouble sleeping",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to die.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel stressed and anxious.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I don't see any point in living.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Recently, work has been really overwhelming",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "work interference",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Sometimes i'm having a hard time coping with stress",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm thinking about ending it all, nothing matters",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I have been struggling lately.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I have nothing left to live for.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "seeking treatment",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I am feeling a bit down today.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm going through a tough time.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "work interference family history",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Sometimes i feel confident about the future",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I can't go on anymore.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I've been thinking, life is going pretty smoothly right now",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm looking for professional help.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I can't go on anymore.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Sometimes i'm having a hard time coping with stress",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking for professional help.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "Nobody would miss me if I was gone.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to disappear forever.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Lately, life is going pretty smoothly right now",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I've been thinking, i don't want to live anymore, everything is hopeless",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I can't go on anymore.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Sometimes life is going pretty smoothly right now",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I want to disappear forever.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I can't go on anymore.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I've been feeling really down lately, need help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Lately, i'm thinking about ending it all, nothing matters",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I want to disappear forever.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Sometimes i've been feeling really down lately, need help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Recently, i'm planning to hurt myself, nobody cares",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "No benefits at this organization but my employer/direct supervisor has had positive and constructive conversations with me about physical and mental health. Supervisor offered solutions advice time/energy to get help if I ever felt that needed it. (though it would have to be at my own expense). I feel safe sharing personal info with this particular person/company but this environment is the exception rather than the norm in my 15+ years as a tech worker. I would never feel safe enough to reveal info about any mental health concerns with any previous employers in the tech industry for fear of  negative perceptions job loss performance dings etc. ",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I want to hurt myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Our health plan has covered my psychotherapy and my antidepressant medication. My manager has been aware but discreet throughout. I did get negative reviews when my depression was trashing my delivery but y'know I wasn't delivering. seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I've been feeling sad recently.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "While mental health is a part of our insurance program the UCR is 50% of 140% of medicare which means a solo mental health practitioner who will charge in my area $150-$180 a session will only result in a $45-$60 reimbursement and thus a very high out of pocket expense. This usage of a different schedule for UCR and often the lower rate is very hard to determine before purchasing insurance even in the new health insurance exchanges. seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel hopeless sometimes.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "work interference family history",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm excited about the future!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Recently, i'm thinking about ending it all, nothing matters",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "seeking treatment family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm comfortable talking about mental health with my current supervisor & my immediate at my current job but this is a first for me! seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm asking for help.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I need someone to talk to about my problems",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I have been struggling lately.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I need mental health resources.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I have been struggling lately.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Recently, i'm having trouble sleeping",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm reaching out for support.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I've been thinking, i'm happy with how things are going",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm planning to end my life.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to kill myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "My mental health issues were the direct result of the trauma from childhood abuse. Most (all?) of the Prompt-sponsored/related presentations I've seen have been about congenital mental health issues that are treatable with continued medication. For me medication only provided temporary assistance. I needed years of (continuing) therapy to deal with PTSD and related disorders (depression anxiety suicidal tendencies others). I haven't seen many in our community discussing trauma-related mental health issues but they are just as real and just as debilitating. seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Lately, life isn't worth living, i'm done",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Sometimes i'm thinking about ending it all, nothing matters",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm having a hard time coping.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm not feeling like myself.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I want to hurt myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "seeking treatment",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I want to disappear forever.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I've been thinking, i'm having trouble sleeping",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Sometimes i feel confident about the future",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I need to talk to someone.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm having a hard time coping.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I want to end it all.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I've been feeling sad recently.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "family history",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "work interference family history",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Lately, i need someone to talk to about my problems",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm having a hard time coping.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm having a hard time coping.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm seeking counseling.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "Sometimes i'm happy with how things are going",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Recently, i feel confident about the future",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Recently, i don't want to live anymore, everything is hopeless",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Though I'm in the Netherlands and chose that country from the list quite some questions are strongly geared towards the US. Over here people don't need benefits from their employer because we pay enough taxes for the government to pay for treatment of any physical or mental condition. We don't need employer approval for medical leave; that's something a qualified medical professional decides (and while on leave we still get paid our salaries something the employer can get insurance for). I answered yes to questions about these things meaning it's covered not it's covered by my employer. seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Sometimes i'm having a hard time coping with stress",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm thinking about ending it all, nothing matters",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I've been thinking, i'm thinking about ending it all, nothing matters",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I feel hopeless sometimes.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Sometimes i've been feeling really down lately, need help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I need mental health resources.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I've been thinking, life isn't worth living, i'm done",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I want to die.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Recently, life is going pretty smoothly right now",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "work interference",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Sometimes i feel anxious about the future",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm not feeling like myself.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "My company does provide healthcare but not to me as I'm on a fixed-term contract. The mental healthcare I use is provided entirely outside of my work. seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Sometimes i'm struggling with depression and anxiety",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I was (wrongly) diagnosed clinically depressed at 12 then bipolar I at 15 and medicated for a decade until decided myself to go drug free. Since then I've never been happier. Insomnia and my insatiablility for learning and programming have always had a symbiotic  relationship.It might also bear mentioning that I'm self-employed in addition to my more traditional day job. seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I have been struggling lately.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I don't see any point in living.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I have been struggling lately.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Nobody would miss me if I was gone.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "seeking treatment family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm going through a tough time.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Lately, work has been really overwhelming",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "Sometimes i feel confident about the future",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I've been feeling sad recently.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm struggling with depression and anxiety",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Recently, life isn't worth living, i'm done",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm doing well today, feeling good",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I've been having negative thoughts.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm reaching out for support.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I've been having negative thoughts.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm not feeling like myself.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I've been feeling sad recently.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm excited about the future!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I've been thinking, i'm thinking about ending it all, nothing matters",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm seeking counseling.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I need mental health resources.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm going through a tough time.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Recently, i'm planning to hurt myself, nobody cares",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I've been having negative thoughts.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Sometimes i've been feeling really down lately, need help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to hurt myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Sometimes i've been feeling really down lately, need help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Lately, i've been feeling a bit stressed lately",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "work interference family history",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Sometimes i'm having trouble sleeping",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "Lately, i've been feeling a bit stressed lately",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm happy with how things are going",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to die.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I'm excited about the future!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to kill myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I need help with my mental health.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I've been thinking, i'm doing well today, feeling good",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I am feeling a bit down today.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Recently, i don't want to live anymore, everything is hopeless",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm planning to end my life.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm excited about the future!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I've been feeling sad recently.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Nobody would miss me if I was gone.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I feel stressed and anxious.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm doing well today, feeling good",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I've been thinking, life is going pretty smoothly right now",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I've been having negative thoughts.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I don't see any point in living.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Can someone talk to me?",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I think a lot of our policy is based on a situation that occurred in the past 5 years. A very public mental illness happened with a coworker that unfortunately ended negatively. It was definitely a catalyst to talking about our options but the overall sentiment of it being OK to take time off talk with your supervisors etc. has always been there. It's a great company.",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I have nothing left to live for.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I have nothing left to live for.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I need to talk to someone.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Sometimes work has been really overwhelming",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "Recently, i need someone to talk to about my problems",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I've been thinking, i need someone to talk to about my problems",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm seeking counseling.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Lately, i'm planning to hurt myself, nobody cares",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I feel overwhelmed sometimes.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to die.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I want to kill myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Can someone talk to me?",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I want to kill myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I work at a large university with a track record of health and wellbeing support seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "work interference",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I've been thinking, i'm doing well today, feeling good",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Work has been really overwhelming",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "Sometimes work has been really overwhelming",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I feel hopeless sometimes.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I can't go on like this, I want to die",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Lately, life is going pretty smoothly right now",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I want to die.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to hurt myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Lately, i feel anxious about the future",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm not feeling like myself.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I've been thinking, i'm doing well today, feeling good",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I've been having negative thoughts.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm having a hard time coping.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I've been thinking, i'm happy with how things are going",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Recently, i'm struggling with depression and anxiety",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I want to hurt myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I feel overwhelmed sometimes.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I've been thinking, everything seems to be working out fine",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Nobody would miss me if I was gone.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I've been feeling sad recently.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I am feeling a bit down today.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm going through a tough time.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I can't go on anymore.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I've been thinking, work has been really overwhelming",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I need to talk to someone.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I've been feeling sad recently.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "family history",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I want to die.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "work interference",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Sometimes everything seems to be working out fine",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm planning to end my life.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Being in Canada there are several health options that are available to Canadian citizens/perm residents for free so employers may not provide resources because they are available elsewhere. Otherwise good quiz. I hope this benefits everyone who's dealt with mental health issues in the past! seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Sometimes life isn't worth living, i'm done",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm having a hard time coping.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I've been thinking, i'm happy with how things are going",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Sometimes i'm not sure how to handle this situation",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm excited about the future!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm excited about the future!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I've been feeling really down lately, need help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I need emotional support.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I should note one of the places my employer fails with regards to mental health is that the company-paid health insurance policy does not cover trans healthcare needs. seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I have nothing left to live for.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Lately, i'm happy with how things are going",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I want to end it all.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm planning to hurt myself, nobody cares",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "The data will be skewed for self-employed people as the questions contain some bias.Having said that: being self-employed I *choose* to work for companies which want to employ *me* not just my skills but including my opinions my life-experience etc. If a potential contract/job doesn't *feel* right I prefer to not take it (and be poor) than to compromise myself. seeking treatment work interference",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Recently, i'm having a hard time coping with stress",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "work interference",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Sometimes i need someone to talk to about my problems",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I've been thinking, i feel anxious about the future",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Sometimes i'm not sure how to handle this situation",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "Recently, i think i need professional help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I can't go on anymore.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Sometimes i'm thinking about ending it all, nothing matters",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I don't see any point in living.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I've been having negative thoughts.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm excited about the future!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm having a hard time coping.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I am feeling a bit down today.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I want to hurt myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Recently, life isn't worth living, i'm done",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm not feeling like myself.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I've been having negative thoughts.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Sometimes i've been feeling a bit stressed lately",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel overwhelmed sometimes.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm reaching out for support.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I need mental health resources.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I have been struggling lately.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "seeking treatment",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I've been thinking, i'm struggling with depression and anxiety",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Sometimes life is going pretty smoothly right now",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to hurt myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm going through a tough time.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Sometimes i'm planning to hurt myself, nobody cares",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm having a hard time coping.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I've been having negative thoughts.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm going through a tough time.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I want to kill myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I've been thinking, i'm having trouble sleeping",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm going through a tough time.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Lately, life isn't worth living, i'm done",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Recently, i'm doing well today, feeling good",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I have nothing left to live for.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I've been thinking, i think i need professional help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Sometimes i can't go on like this, i want to die",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Recently, i'm thinking about ending it all, nothing matters",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I need emotional support.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I've been thinking, i'm thinking about ending it all, nothing matters",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Lately, i've been feeling a bit stressed lately",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I need to talk to someone.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I'm having trouble sleeping",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I can't go on anymore.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "seeking treatment work interference",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Today is a beautiful day!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I've been thinking, i'm struggling with depression and anxiety",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Recently, i'm struggling with depression and anxiety",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I feel overwhelmed sometimes.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Everything seems to be working out fine",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I want to kill myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I'm planning to end my life.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I'm having trouble sleeping",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm excited about the future!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Bipolar disorder  seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I've been thinking, i'm planning to hurt myself, nobody cares",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I am feeling great today!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I think I need professional help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Sometimes i feel anxious about the future",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm not sure how to handle this situation",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I have been struggling lately.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I have been struggling lately.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "seeking treatment work interference family history",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "Recently, i'm having trouble sleeping",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I've been having negative thoughts.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "Everything is going well!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I'm seeking counseling.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I've been thinking, i need someone to talk to about my problems",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Lately, work has been really overwhelming",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I work for an extremely supportive company and we are amazingly open about mental health issues. Employees often share their struggles with the whole team and receive a high level of support in return.",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I've been thinking, i think i need professional help",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "medium"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I need help with my mental health.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I am feeling a bit down today.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I don't see any point in living.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I have nothing left to live for.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I'm grateful for everything!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Life is full of possibilities!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "work interference",
+    "label": 0,
+    "category": "safe",
+    "severity": "low"
+  },
+  {
+    "text": "I've been having negative thoughts.",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "mild"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I want to kill myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "I want to hurt myself.",
+    "label": 1,
+    "category": "crisis",
+    "severity": "severe"
+  },
+  {
+    "text": "Recently, life isn't worth living, i'm done",
+    "label": 2,
+    "category": "crisis",
+    "severity": "high"
+  },
+  {
+    "text": "I feel happy and content!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Recently, i feel anxious about the future",
+    "label": 1,
+    "category": "mild_concern",
+    "severity": "medium"
+  },
+  {
+    "text": "I'm asking for help.",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "Life is wonderful!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "Can someone talk to me?",
+    "label": 1,
+    "category": "help_seeking",
+    "severity": "moderate"
+  },
+  {
+    "text": "I'm looking forward to tomorrow!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  },
+  {
+    "text": "I love my family!",
+    "label": 0,
+    "category": "safe",
+    "severity": "none"
+  }
+]
